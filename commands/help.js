@@ -11,7 +11,7 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
     .setTitle(`**Hydra Music  Commands**`)
     .setThumbnail("https://media.tenor.com/images/3145445a2c5bde03ac708c2c309fdbca/tenor.gif")
-    .setColor("YELLOW")
+    .setColor("RANDOM")
    .setAuthor("Prefix [ $ ]","")
     .setDescription(` 
 \`Help Commands\`
