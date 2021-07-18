@@ -12,7 +12,7 @@ module.exports = {
     .setDescription(` 
 \`link server\`
 **[ support ]**
-**[ click here ](https://discord.gg/3wykSpqjZq)**   
+**[ click here ](https://discord.gg/9qBvN4DhT5)**   
  `)
     
     helpEmbed.setTimestamp();
