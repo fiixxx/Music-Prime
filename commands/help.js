@@ -11,7 +11,8 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
     .setTitle(`**Hydra Music  Commands**`)
     .setThumbnail("https://media.tenor.com/images/3145445a2c5bde03ac708c2c309fdbca/tenor.gif")
-    .setAuthor("Prefix [ $ ]","")
+    .setColor("YELLOW")
+   .setAuthor("Prefix [ $ ]","")
     .setDescription(` 
 \`Help Commands\`
 
@@ -29,6 +30,7 @@ $pause , $nowplaying \`
 \` $clip , $clips , 
 $lyrics , $move , $playlist \`
 
+
 **Info Command**
 
 \` $bot , $support ,
@@ -37,7 +39,7 @@ $lyrics , $move , $playlist \`
 
 
      
-**[ invite ](https://discord.com/api/oauth2/authorize?client_id=866274289976213505&permissions=8&scope=bot)** , **[ support ](https://discord.gg/3wykSpqjZq)**      
+**[ invite ](https://discord.com/api/oauth2/authorize?client_id=866274289976213505&permissions=8&scope=bot)** , **[ support ](https://discord.gg/9qBvN4DhT5)**      
  
 Hydra Music - By FiiX ) Hydra Prime )> <(verification Hydra Music 🎼 ] 
 (Owner Bot) >>>>     (!                         ᖴ𝗂𝗂᙭#9480                                                       
