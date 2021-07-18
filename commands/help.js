@@ -9,7 +9,7 @@ module.exports = {
     let commands = message.client.commands.array();
 
     let helpEmbed = new MessageEmbed()
-    .setTitle(`**Hyper Music  Commands**`)
+    .setTitle(`**Hydra Music  Commands**`)
     .setThumbnail("https://media.tenor.com/images/3145445a2c5bde03ac708c2c309fdbca/tenor.gif")
     .setAuthor("Prefix [ $ ]","")
     .setDescription(` 
@@ -17,24 +17,30 @@ module.exports = {
 
 **Music Command**
 
-\` $paly , $stop , $skip , $skipto , $volume \`
+\` $paly , $stop , 
+$skip , $skipto , $volume \`
 
-\` $queue , $loop , $pause , $nowplaying \`
+\` $queue , $loop , 
+$pause , $nowplaying \`
 
-\` $shuffle , $uptime , $search , $remove \`
+\` $shuffle , $uptime ,
+ $search , $remove \`
 
-\` $clip , $clips , $lyrics , $move , $playlist \`
+\` $clip , $clips , 
+$lyrics , $move , $playlist \`
 
 **Info Command**
 
-\` $bot , $support , $invite , $help , $ping \`
+\` $bot , $support ,
+   $invite , $help , $ping \`
 
 
 
      
-**[ invite ](https://discord.com/api/oauth2/authorize?client_id=780578520870158337&permissions=8&scope=bot)** , **[ support ](https://discord.gg/3wykSpqjZq)**      
-
-**[ vote ](https://top.gg/bot/780578520870158337)**                                                                
+**[ invite ](https://discord.com/api/oauth2/authorize?client_id=866274289976213505&permissions=8&scope=bot)** , **[ support ](https://discord.gg/3wykSpqjZq)**      
+ 
+Hydra Music - By FiiX ) Hydra Prime )> <(verification Hydra Music 🎼 ] 
+(Owner Bot) >>>>     (!                         ᖴ𝗂𝗂᙭#9480                                                       
  `)
     
     helpEmbed.setTimestamp();
