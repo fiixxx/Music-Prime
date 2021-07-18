@@ -40,9 +40,8 @@ $lyrics , $move , $playlist \`
 
      
 **[ invite ](https://discord.com/api/oauth2/authorize?client_id=866274289976213505&permissions=8&scope=bot)** , **[ support ](https://discord.gg/9qBvN4DhT5)**      
- 
-Hydra Music - By FiiX ) Hydra Prime )> <(verification Hydra Music 🎼 ] 
-(Owner Bot) >>>>     (!                         ᖴ𝗂𝗂᙭#9480                                                       
+  
+                                     
 
 `)
     
