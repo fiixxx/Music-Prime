@@ -15,7 +15,7 @@ module.exports = {
     //react with approve emoji
     message.react("769665713124016128");
     //send the invite embed
-    message.reply(new MessageEmbed().setColor("BLACK").setTitle("**link bot**").setDescription("https://discord.com/api/oauth2/authorize?client_id=780578520870158337&permissions=8&scope=bot")
+    message.reply(new MessageEmbed().setColor("BLACK").setTitle("**link bot**").setDescription("https://discord.com/api/oauth2/authorize?client_id=866274289976213505&permissions=8&scope=bot")
     .setFooter("🥺Invite Bot🥺", "https://phoneky.co.uk/thumbs/screensavers/down/music/music_me3s1nz7.gif"));
 
   }
