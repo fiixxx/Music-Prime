@@ -10,7 +10,7 @@ module.exports = {
 
     let helpEmbed = new MessageEmbed()
     .setTitle(`**Hydra Music  Commands**`)
-    .setThumbnail("https://media.tenor.com/images/3145445a2c5bde03ac708c2c309fdbca/tenor.gif")
+    .setThumbnail("https://media.discordapp.net/attachments/836335449504612423/866284679652442162/image0.gif")
     .setColor("RANDOM")
    .setAuthor("Prefix [ $ ]","")
     .setDescription(` 
@@ -43,7 +43,8 @@ $lyrics , $move , $playlist \`
  
 Hydra Music - By FiiX ) Hydra Prime )> <(verification Hydra Music 🎼 ] 
 (Owner Bot) >>>>     (!                         ᖴ𝗂𝗂᙭#9480                                                       
- `)
+
+https://media.discordapp.net/attachments/836335449504612423/866284915439566868/image0.gif `)
     
     helpEmbed.setTimestamp();
 
