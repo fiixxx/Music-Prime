@@ -44,7 +44,7 @@ $lyrics , $move , $playlist \`
 Hydra Music - By FiiX ) Hydra Prime )> <(verification Hydra Music 🎼 ] 
 (Owner Bot) >>>>     (!                         ᖴ𝗂𝗂᙭#9480                                                       
 
-https://media.discordapp.net/attachments/836335449504612423/866284915439566868/image0.gif `)
+`)
     
     helpEmbed.setTimestamp();
 
