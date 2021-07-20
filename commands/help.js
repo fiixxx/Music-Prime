@@ -33,16 +33,10 @@ $lyrics , $move , $playlist \`
 
 
 
-** Gif Command **
-
-
-**| .girl | .man | .couple | .baby | .anime | .animal |**
-
-
-
 **Info Command**
 
-\` $bot , $support , $avatar , $invite , $help , $ping \`
+
+\` $bot , $support ,$invite , $help, $ping \`
 
 
 
