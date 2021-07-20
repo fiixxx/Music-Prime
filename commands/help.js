@@ -51,5 +51,13 @@ $lyrics , $move , $playlist \`
 
     return message.channel.send(helpEmbed).catch(console.error);
 
+
+
+
+
+
+
+![LOGO](https://data.photofunky.net/output/image/2/9/8/1/29819a/photofunky.gif)
+
   }
 };
