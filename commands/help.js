@@ -31,10 +31,18 @@ $pause , $nowplaying \`
 $lyrics , $move , $playlist \`
 
 
+
+
+** Gif Command **
+
+
+**| .girl | .man | .couple | .baby | .anime | .animal |**
+
+
+
 **Info Command**
 
-\` $bot , $support ,
-   $invite , $help , $ping \`
+\` $bot , $support , $avatar , $invite , $help , $ping \`
 
 
 
